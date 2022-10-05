@@ -1,0 +1,100 @@
+#text-area-css {
+    border: 1px solid #e0e0e0;
+    border-radius: 0;
+    padding: 7px 14px;
+}
+.answer {
+    font-size: 24px;
+    color: #724548;
+    margin-bottom: 20px;
+    margin: 12px;
+}
+.notifi-text {
+    margin: 12px;
+    margin-bottom: 20px;
+    font-weight: 100;
+    color:rgba(116, 125, 140,1.0);
+}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.web-page {
+    margin-left: 292px
+}
+.star-important {
+    color: #e46255;
+}
+.mail-and-web {
+    display: inline-block;
+}
+.btn {
+    margin:10px;
+}
+.form-name {
+    padding-top: 5px;
+    padding-left: 10px;
+}
+#submit {
+    background-color: #e46255;
+    border: none;
+    border-radius: 0;
+    background: #f70d28;
+    padding: 0 20px;
+    line-height: 40px;
+    height: 40px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: white;
+}
+.avatar-author {
+    width: 35px;
+    border-radius: 100%;
+}
+.box-content {
+    background: #edf6ff;
+    border: 1px solid #aaa;
+    padding: 10px;
+    margin-bottom: 1em;
+    width: auto;
+    display: table;
+    font-size: 95%;
+}
+.toc_depth_2 {
+    padding: 10px;
+}
+.toc_depth_3 {
+    padding: 20px;
+}
+.toc_list {
+    color:red;
+    font-size: 12px;
+}
+.box-heading {
+    padding-left: 125px;
+    font-size: 12px;    
+}
+.box-inshort {
+    background-color: aqua;
+    width: 600px;
+    border: red solid 1px;
+    margin: 12px;
+}
+.post-heading {
+    width: 720px;
+    margin: 12px;
+    color: brown;
+    font-size: 30px;
+}
+.post-introduce {
+    width: 720px;
+    margin: 12px;
+}
+.form-comment {
+    width: 1000px;
+    margin: 12px
+}
